@@ -13,6 +13,6 @@ start resource in you server.cfg <br />
 
 Configuration
 =============
-To change the action key change selectedKey (default value: "E")
+To change the action key change selectedKey (default value: "E")<br />
 To add a teleportation, add this line in Config.Positions:<br />
 `{{x, y, z, 0}, {x, y, z, 0},  "[" .. SelectedKey .. "] " .. "Text to show when player is inside the area."},`
