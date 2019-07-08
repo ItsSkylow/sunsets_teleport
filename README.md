@@ -7,9 +7,9 @@ sunsets_teleport
 Installation
 ============
 
-drop fill in you resource folder <br />
-start resource in you server.cfg <br />
-`start sunsets_teleport`
+
+1. add sunsets_teleport to your resources directory.
+1. Add `start sunsets_teleport` to your server.cfg.
 
 Configuration
 =============
